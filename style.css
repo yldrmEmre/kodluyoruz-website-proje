@@ -1,0 +1,55 @@
+#arkaplan-Anasayfa {
+  
+        background-image: url("https://getwallpapers.com/wallpaper/full/0/f/9/757589-amazing-yamaha-logo-wallpaper-1920x1080-for-samsung-galaxy.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #cccccc;
+     
+}
+ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+
+    font-size: 30px;
+
+  
+}
+
+li {
+    float: right;
+  
+}
+
+li a {
+    border-radius: 30px;
+
+    display: block;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 14px 16px;
+
+    text-decoration: none;
+    
+    background-color: #273bae;
+}
+
+li a:hover {
+
+    background-color: #111;
+}
+ .p-özellik {
+    color:rgb(181, 175, 175) ;
+ }
+
+ div {
+    text-align: center;
+ }
+
